@@ -14,3 +14,10 @@ Before running the code, please install the following libaries with pip and cond
 3. Pygame: conda install -c cogsci pygame
 
 4. MIDO : pip install mido
+
+#
+
+We will be using a 2 layer LSTM neural network to create musical responces to tune played by a user on a virtual piano. This code is built in python 3.7, and uses Tensorflow and Keras for the model architecture. 
+
+It is reccomended to train this model with a NVIDIA GPU that suppord CUDA for a faster training experience. It took 3 - 4 days of training to achieve its full potential, but it will work with just 24 hours to. 
+
