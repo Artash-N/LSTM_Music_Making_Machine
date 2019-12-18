@@ -27,4 +27,4 @@ To train the program, use the train.py file. This will create a train checkpoint
 
 #
 
-A pretrained model will be available on request
+A pretrained model will be available on request. Once a checkpoint file for the model is created, you can run the piano.py on a CPU
