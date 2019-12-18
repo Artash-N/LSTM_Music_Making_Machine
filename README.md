@@ -8,3 +8,9 @@ You must use anaconda for this program, or install the libaries with only pip
 Before running the code, please install the following libaries with pip and conda:
 
 1. Tensorflow: conda install tensorflow   (If you have an NVIDIA GPU: conda install tensorflow-gpu)
+
+2. Keras: conda install keras
+
+3. Pygame: conda install -c cogsci pygame
+
+4. MIDO : pip install mido
