@@ -24,3 +24,7 @@ It is reccomended to train this model with a NVIDIA GPU that suppord CUDA for a 
 #
 
 To train the program, use the train.py file. This will create a train checkpoint that you can use in the piano.py program, where pygame will be used to create a virtual piano. Once you have finished playing the song, press done for the model to predict a response
+
+#
+
+A pretrained model will be available on request
