@@ -1,6 +1,8 @@
 # LSTM_Music_Making_Machine
 Using Long short-term memory (LSTM) Reccurent Neural Networks to create a musical response to a tune played on a virtual piano. Coded with Python3 and Tensorflow.
 
+Read more about the Music Making Machine project and see it in action at: https://hotpoprobot.com/2019/07/26/making-music-using-machine-learning-music-making-machine-m3/
+
 #
 
 You must use anaconda for this program, or install the libaries with only pip.
@@ -30,4 +32,3 @@ To train the program, use the train.py file. This will create a training checkpo
 A pretrained model is available on request, as it is to big to place on Github (150 mb). Once a checkpoint file for the model is created, you can run the piano.py on a CPU
 
 
-Read more about the Music Making Machine project and see it in action at: https://hotpoprobot.com/2019/07/26/making-music-using-machine-learning-music-making-machine-m3/
